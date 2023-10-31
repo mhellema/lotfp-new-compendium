@@ -59,6 +59,6 @@
 			"module": "lotfp-new-compendium"
 		}
 	],
-	"manifest": "https://gitlab.com/mhellema/lotfp-new-compendium/raw/main/system.json",
+	"manifest": "https://github.com/mhellema/lotfp-new-compendium/raw/main/system.json",
     	"download": "https://github.com/mhellema/lotfp-new-compendium/archive/refs/heads/main.zip"
 }
