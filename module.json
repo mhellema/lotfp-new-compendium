@@ -16,7 +16,7 @@
 	"packs": [{
 			"name": "weapon",
 			"label": "Weapon list",
-			"system": "Lamentations Of The Flame Princess",
+			"system": "lotfp-new",
 			"path": "packs/weapons.db",
 			"entity": "Item",
 			"type": "Item",
@@ -25,7 +25,7 @@
 		{
 			"name": "armor",
 			"label": "Armor list",
-			"system": "Lamentations Of The Flame Princess",
+			"system": "lotfp-new",
 			"path": "packs/armors.db",
 			"entity": "Item",
 			"type": "Item",
@@ -34,7 +34,7 @@
                 {
 			"name": "items",
 			"label": "Items list",
-			"system": "Lamentations Of The Flame Princess",
+			"system": "lotfp-new",
 			"path": "packs/items.db",
 			"entity": "Item",
 			"type": "Item",
@@ -43,7 +43,7 @@
 		{
 			"name": "cleric-spells",
 			"label": "Cleric Spells list",
-			"system": "Lamentations Of The Flame Princess",
+			"system": "lotfp-new",
 			"path": "packs/cleric-spells.db",
 			"entity": "Item",
 			"type": "Item",
@@ -52,13 +52,13 @@
                 {
 			"name": "magic-user-spells",
 			"label": "Magic-user Spells list",
-			"system": "Lamentations Of The Flame Princess",
+			"system": "lotfp-new",
 			"path": "packs/magic-user-spells.db",
 			"entity": "Item",
 			"type": "Item",
 			"module": "lotfp-new-compendium"
 		}
 	],
-	"manifest": "https://gitlab.com/mhellema/lotfp-eq-spells/raw/main/system.json",
-    	"download": "https://github.com/mhellema/lotfp-eq-spells/archive/refs/heads/main.zip"
+	"manifest": "https://gitlab.com/mhellema/lotfp-new-compendium/raw/main/system.json",
+    	"download": "https://github.com/mhellema/lotfp-new-compendium/archive/refs/heads/main.zip"
 }
