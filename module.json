@@ -19,6 +19,7 @@
 			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/weapons.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
 		},
 		{
@@ -27,6 +28,7 @@
 			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/armors.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
 		},
                 {
@@ -35,6 +37,7 @@
 			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/items.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
                 },
 		{
@@ -43,6 +46,7 @@
 			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/cleric-spells.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
                 },        
                 {
@@ -51,6 +55,7 @@
 			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/magic-user-spells.db",
 			"entity": "Item",
+			"type": "Item",
 			"module": "lotfp-new-compendium"
 		}
 	],
