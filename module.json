@@ -1,0 +1,59 @@
+{
+    "id": "lotfp-new-compendium",
+    "title": "Lamentations Of The Flame Princess - Compendium",
+    "description": "Lamentations of the flame princess system, a fork based on OSE module.",
+    "authors": [
+        {
+            "name": "mhellema"
+        }
+    ],
+    "version": "1.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+	"minimumCoreVersion": "10",
+	"packs": [{
+			"name": "weapon",
+			"label": "Weapon list",
+			"system": "lotfp",
+			"path": "packs/weapons.db",
+			"entity": "Item",
+			"module": "lotfp-new-compendium"
+		},
+		{
+			"name": "armor",
+			"label": "Armor list",
+			"system": "lotfp",
+			"path": "packs/armors.db",
+			"entity": "Item",
+			"module": "lotfp-new-compendium"
+		},
+                {
+			"name": "items",
+			"label": "Items list",
+			"system": "lotfp",
+			"path": "packs/items.db",
+			"entity": "Item",
+			"module": "lotfp-new-compendium"
+                },
+		{
+			"name": "cleric-spells",
+			"label": "Cleric Spells list",
+			"system": "lotfp",
+			"path": "packs/cleric-spells.db",
+			"entity": "Item",
+			"module": "lotfp-new-compendium"
+                },        
+                {
+			"name": "magic-user-spells",
+			"label": "Magic-user Spells list",
+			"system": "lotfp",
+			"path": "packs/magic-user-spells.db",
+			"entity": "Item",
+			"module": "lotfp-new-compendium"
+		}
+	],
+	"manifest": "https://gitlab.com/mhellema/lotfp-eq-spells/raw/main/system.json",
+    	"download": "https://github.com/mhellema/lotfp-eq-spells/archive/refs/heads/main.zip"
+}
