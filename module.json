@@ -16,7 +16,7 @@
 	"packs": [{
 			"name": "weapon",
 			"label": "Weapon list",
-			"system": "lotfp",
+			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/weapons.db",
 			"entity": "Item",
 			"module": "lotfp-new-compendium"
@@ -24,7 +24,7 @@
 		{
 			"name": "armor",
 			"label": "Armor list",
-			"system": "lotfp",
+			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/armors.db",
 			"entity": "Item",
 			"module": "lotfp-new-compendium"
@@ -32,7 +32,7 @@
                 {
 			"name": "items",
 			"label": "Items list",
-			"system": "lotfp",
+			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/items.db",
 			"entity": "Item",
 			"module": "lotfp-new-compendium"
@@ -40,7 +40,7 @@
 		{
 			"name": "cleric-spells",
 			"label": "Cleric Spells list",
-			"system": "lotfp",
+			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/cleric-spells.db",
 			"entity": "Item",
 			"module": "lotfp-new-compendium"
@@ -48,7 +48,7 @@
                 {
 			"name": "magic-user-spells",
 			"label": "Magic-user Spells list",
-			"system": "lotfp",
+			"system": "Lamentations Of The Flame Princess",
 			"path": "packs/magic-user-spells.db",
 			"entity": "Item",
 			"module": "lotfp-new-compendium"
